@@ -1,0 +1,4 @@
+git init
+touch  <file Name>
+git status
+git 
